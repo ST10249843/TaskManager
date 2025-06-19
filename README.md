@@ -8,7 +8,7 @@ EasyKanban is a desktop-based task management system developed in Java using Swi
 
 ---
 
-## 🗂 Overview
+## Overview
 
 EasyKanban allows users to:
 - Add and track tasks categorized as "To Do", "In Progress", or "Done".
